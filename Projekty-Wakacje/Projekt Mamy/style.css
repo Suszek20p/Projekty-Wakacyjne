@@ -1,0 +1,52 @@
+body{
+    font-size: 30px;
+}
+
+p{
+    display: inline-block;
+    width: 130px;
+}
+
+option{
+    font-size: 20px;
+}
+
+.wyplata{
+
+    display: none;
+}
+
+.inne{
+
+    display: none;
+}
+
+.wyplata2{
+
+    display: none;
+}
+
+.inne2{
+
+    display: none;
+}
+
+.rachunki{
+
+    display: none;
+}
+
+.zajecia{
+
+    display: none;
+}
+
+.rachunki2{
+
+    display: none;
+}
+
+.zajecia2{
+
+    display: none;
+}
